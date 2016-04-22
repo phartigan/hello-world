@@ -1,5 +1,2 @@
 # hello-world
-test
-This is no longer a test, but edits
-for the real
-thing
+I don't like what you wrote and think it ought to look different.
